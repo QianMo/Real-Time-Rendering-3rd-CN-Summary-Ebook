@@ -12,7 +12,7 @@ Rendering 3rd》，也可以把它看做《Real-Time Rendering
 3rd》提炼总结.PDF](https://github.com/QianMo/Real-Time-Rendering-3rd-Summary-Ebook/raw/master/%E3%80%8AReal-Time%20Rendering%203rd%E3%80%8B%20%E6%8F%90%E7%82%BC%E6%80%BB%E7%BB%93.pdf)
 
 
-配套伴侣《Real-Time Rendering 3rd》核心知识网络图解的下载链接：
+《Real-Time Rendering 3rd》核心知识网络图解的下载链接：
 
 [《Real-Time Rendering 3rd》核心知识网络图解.jpg](https://github.com/QianMo/Real-Time-Rendering-3rd-Summary-Ebook/raw/master/%E3%80%8AReal-Time%20Rendering%203rd%E3%80%8B%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%BD%91%E7%BB%9C%E5%9B%BE%E8%A7%A3.jpg)
 
