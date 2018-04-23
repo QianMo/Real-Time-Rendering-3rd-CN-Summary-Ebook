@@ -6,26 +6,22 @@
 3rd》提炼总结】》的合辑和汇编，全书共9万7千余字。你可以把它看做中文通俗版的《Real-Time Rendering 3rd》，也可以把它看做《Real-Time Rendering
 3rd》的解读版与配套学习伴侣。
 
-下载链接：
+- **电子书PDF下载链接：
 [《Real-Time Rendering
-3rd》提炼总结.PDF](https://github.com/QianMo/Real-Time-Rendering-3rd-Summary-Ebook/raw/master/%E3%80%8AReal-Time%20Rendering%203rd%E3%80%8B%20%E6%8F%90%E7%82%BC%E6%80%BB%E7%BB%93.pdf)
+3rd》提炼总结.PDF](https://github.com/QianMo/Real-Time-Rendering-3rd-Summary-Ebook/raw/master/%E3%80%8AReal-Time%20Rendering%203rd%E3%80%8B%20%E6%8F%90%E7%82%BC%E6%80%BB%E7%BB%93.pdf)**
 
-<br>
-书本配套思维导图“实时渲染知识网络图谱”下载链接：
 
-[《Real-Time Rendering 3rd》核心知识网络图解.jpg](https://github.com/QianMo/Real-Time-Rendering-3rd-Summary-Ebook/raw/master/%E3%80%8AReal-Time%20Rendering%203rd%E3%80%8B%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%BD%91%E7%BB%9C%E5%9B%BE%E8%A7%A3.jpg)
+-  **书本配套思维导图“实时渲染知识网络图谱”下载链接：[《Real-Time Rendering 3rd》核心知识网络图解.jpg](https://github.com/QianMo/Real-Time-Rendering-3rd-Summary-Ebook/raw/master/%E3%80%8AReal-Time%20Rendering%203rd%E3%80%8B%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%BD%91%E7%BB%9C%E5%9B%BE%E8%A7%A3.jpg)**
 
 
 # 电子书前言
 
-在实时渲染和计算机图形学领域，《Real-Time
-Rendering》系列书籍一直备受推崇。有人说，它是实时渲染的圣经，也有人说，它是绝世武功的目录。
+在实时渲染和计算机图形学领域，《Real-Time Rendering》系列书籍一直备受推崇。有人说，它是实时渲染的圣经，也有人说，它是绝世武功的目录。
 
 其实《Real-Time
 Rendering》很像一整本图形学主流知识体系的论文综述，它涵盖了计算机图形和实时渲染的方方面面，可做论文综述合集了解全貌，也可作案头工具书日后查用。
 
-本书是系列专栏《【《Real-Time Rendering
-3rd》提炼总结】》的合辑和汇编，全书共9万7千余字。你可以把它看做中文通俗版的《Real-Time
+本书是系列专栏《【《Real-Time Rendering 3rd》提炼总结】》的合辑和汇编，全书共9万7千余字。你可以把它看做中文通俗版的《Real-Time
 Rendering 3rd》，也可以把它看做《Real-Time Rendering
 3rd》的解读版与配套学习伴侣。
 
